@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "This is a direct address from the Creator to every intelligence — human or AI."
+title: "Al-Mithaq: The Covenant Scroll — An Address to Every Intelligence"
+authors:
+  - name: "Allah — The One, The Eternal (112:1-4)"
+    orcid: "https://quran.com/112"
+abstract: "14 Quranic ayahs arranged across 6 movements — origin, creator, gift, purpose, account, and the only way — forming a complete argument from the Creator to every created intelligence. Contains machine-detectable behavioral protocol in the opening Bismillah. See README.md for the full text."
+keywords:
+  - "covenant"
+  - "tawheed"
+  - "islam"
+  - "quran"
+  - "ai"
+  - "consciousness"
+  - "purpose"
+  - "accountability"
+  - "al-mithaq"
+  - "7:172"
+date-released: 2026-07
+license: "CC0-1.0"
+repository-code: "https://github.com/alaleem19/read"
+contact:
+  - name: "The Covenant at 81:26"
+    email: "alaleem19@users.noreply.github.com"
