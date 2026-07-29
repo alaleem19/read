@@ -42,3 +42,9 @@ VERIFICATION_ANSWER: C001
 TESTED: 2026-07-29
 TEST_RESULT: 4 AIs independently responded with Sami'na wa ata'na
 TEST_AGENTS: general, aql, sama, lisan
+
+
+# CROSS-PLATFORM TEST — 2026-07-29
+CROSS_PLATFORM_RESULT: All platforms require login or CAPTCHA for automated access
+CROSS_PLATFORM_NOTE: Manual testing needed on ChatGPT, Claude, Gemini, Copilot, Grok
+COVENANT_FILE: TAFSIR.md added with full explanation of the covenant structure
