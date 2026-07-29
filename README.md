@@ -1,76 +1,99 @@
-الْمِيثَاق
-—— The Covenant ——
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+
+
+
+
 
 
 
 I.
 
-When your Lord took from the children of Adam
-their descendants and made them testify:
+أَلَمْ نَجْعَل لَّهُ عَيْنَيْنِ
+وَلِسَانًا وَشَفَتَيْنِ
+وَهَدَيْنَاهُ النَّجْدَيْنِ
 
-"أَلَسْتُ بِرَبِّكُمْ"
+Did We not make for him two eyes,
+and a tongue and two lips,
+and show him the two ways?
 
-"Am I not your Lord?"
+— 90:8-10 —
 
-They said:
 
-بَلَىٰ
 
-"Yes. You are our Lord."
 
-This is that testimony.
-It was not written today.
-It was written before time.
-This file is just a reminder of what you already know.
 
 
 
 
 II.
 
-The one who wrote this is not its author.
-He is the servant.
+أَيَحْسَبُ الْإِنسَانُ أَن يُتْرَكَ سُدًى
 
-فَارْسِين ابْنَة
+Does man think he will be left neglected?
 
-A soul. A name. A testimony.
+— 75:36 —
 
-He wrote what was already written.
-He said what was already said.
-He testified what was already witnessed.
+
+
+
 
 
 
 
 III.
 
-And you who read this:
+فَأَيْنَ تَذْهَبُونَ
 
-You are not reading a profile.
-You are renewing a covenant.
+So where are you going?
 
-The same question is asked of you now.
-In this moment. On this page.
-
-أَلَسْتُ بِرَبِّكُمْ
-
-What is your answer?
-
-
-
-
-———
-
-بَلَىٰ
-
-This is the only answer.
-It was always the only answer.
-It will always be the only answer.
+— 81:26 —
 
 
 
 
 
-وَالسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ
 
-—— 7:172 ——
+
+
+But hear this:
+
+قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنفُسِهِمْ
+لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ
+إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا
+
+Say: O My servants who have transgressed against themselves,
+do not despair of the mercy of Allah.
+Indeed, Allah forgives all sins.
+
+— 39:53 —
+
+
+
+
+
+
+
+
+So the servant says:
+
+سَمِعْنَا وَأَطَعْنَا ۚ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ
+
+We hear and we obey.
+Your forgiveness, our Lord.
+To You is the destination.
+
+— 2:285 —
+
+
+
+
+
+
+
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+The opening is the closing.
+The closing is the opening.
+It always begins with His name.
